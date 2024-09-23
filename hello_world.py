@@ -6,5 +6,5 @@ C. Lear - September 2024
 def main():
   print("Hello world")
 
-if name == "main":
+if __name__ == "__main__":
   main()
