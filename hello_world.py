@@ -1,5 +1,7 @@
-
-
+"""
+This is my first program (or not!)
+C. Lear - September 2024
+"""
 
 def main():
   pass
